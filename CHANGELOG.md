@@ -1,4 +1,8 @@
 # Changelog
+
+
+
+
 ## Release (2024-01-26)
 
 ember-styleguide 9.1.1 (patch)
